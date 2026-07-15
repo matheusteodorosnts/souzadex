@@ -64,4 +64,4 @@ Se você enviou uma imagem e quer removê-la, abra uma [issue](https://github.co
 
 ## Dúvidas
 
-Confira o [FAQ](https://https://souzadex.vercel.app/faq.html) ou abra uma issue.
+Confira o [FAQ](https://souzadex.vercel.app/faq.html) ou abra uma issue.
