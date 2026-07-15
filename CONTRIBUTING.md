@@ -24,7 +24,7 @@ O arquivo `souzas.js` é gerado automaticamente por um workflow do GitHub Action
    - `Souza-Samurai.jpg` aparece como "Souza Samurai" (hífens e underscores viram espaço)
 4. No seu fork, crie uma branch nova para a contribuição (não use a `main`).
 5. Adicione o arquivo à pasta `assets/images/` com um commit seguindo o padrão `feat: add [nome-da-imagem] to souzadex`.
-6. Abra o Pull Request da sua branch para a `main` do repositório, com o título `Souza: <Nome do Souza>`, e preencha o checklist do template.
+6. Abra o Pull Request da sua branch para a `main` do repositório e preencha o checklist do template.
 7. Aguarde a moderação. Depois do merge na `main`, o card aparece na galeria automaticamente.
 
 ### Requisitos da imagem
