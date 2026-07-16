@@ -1,8 +1,6 @@
 # Prompt: Transformação do Souza em Personagem
 
-> **Uso:** prompt para geração de imagem (image-to-image) que transforma o souza no personagem de referência da segunda imagem, preservando a identidade original.
-
----
+> **Uso**: prompt para geração de imagem (image-to-image) que transforma o souza no personagem de referência da segunda imagem, preservando a identidade original.
 
 ## Prompt
 
@@ -23,8 +21,6 @@ Mantenha a composição, o cenário e a iluminação da foto original, adaptando
 O resultado deve ser detalhado, natural e visualmente coerente, com forte semelhança com o personagem de referência, mas preservando claramente o rosto e a identidade da pessoa da primeira imagem.
 
 Não altere a expressão facial, não mude a pose, não modifique o enquadramento e não crie um rosto genérico.
-
----
 
 ## Variáveis
 
