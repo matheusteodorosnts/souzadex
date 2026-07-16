@@ -28,4 +28,5 @@ const SOUZAS = [
   { file: "souza-luffy.png", author: "caiolucasbittencourt", authorId: 204911984 },
   { file: "souza-parabenizador.png", author: "jvbsz", authorId: 82910294 },
   { file: "souza-kun.png", author: "caio-andres", authorId: 138927547 },
+  { file: "souzacraft.png", author: "caiolucasbittencourt", authorId: 204911984 },
 ];
